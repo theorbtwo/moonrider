@@ -24,7 +24,8 @@ COLORS.schemes = {
     primarybright: COLORS.BRIGHTRED,
     secondary: COLORS.BLUE,
     secondarybright: COLORS.BRIGHTBLUE,
-    tertiary: COLORS.YELLOW
+    tertiary: COLORS.YELLOW,
+    tertiary_name: "yellow"
   },
 
   blue: {
@@ -34,7 +35,8 @@ COLORS.schemes = {
     primarybright: '#0B4BB3',
     secondary: '#c27727',
     secondarybright: '#FFD840',
-    tertiary: '#d7fdf9'
+    tertiary: '#d7fdf9',
+    tertiary_name: 'cyan'
   },
 
   purple: {
@@ -44,7 +46,8 @@ COLORS.schemes = {
     primarybright: '#B685FF',
     secondary: '#FAF239',
     secondarybright: '#FFFC9E',
-    tertiary: '#50FFF2'
+    tertiary: '#50FFF2',
+    tertiary_name: 'cyan'
   },
 
   green: {
@@ -54,7 +57,8 @@ COLORS.schemes = {
     primarybright: '#C0FF59',
     secondary: '#6A39B3',
     secondarybright: '#B685FF',
-    tertiary: '#FAFAFA'
+    tertiary: '#FAFAFA',
+    tertiary_name: 'white'
   },
 
   yellow: {
@@ -65,6 +69,7 @@ COLORS.schemes = {
     secondary: '#E03A3E',
     secondarybright: '#FA7578',
     tertiary: '#278ECC',
+    tertiary_name: 'blue'
   },
 
   red: {
@@ -75,6 +80,7 @@ COLORS.schemes = {
     secondary: '#DADADA',
     secondarybright: '#EFEFEF',
     tertiary: '#666',
+    tertiary_name: 'black'
   },
 
   rgb: {
@@ -84,7 +90,8 @@ COLORS.schemes = {
     primarYBRIGht: '#40fb95',
     secondary: '#34ebd8',
     secondarybright: '#40fbeA',
-    tertiary: '#eb3434'
+    tertiary: '#eb3434',
+    tertiary_name: 'red'
   },
 
   cheetah: {
@@ -94,7 +101,8 @@ COLORS.schemes = {
     primarYBright: '#e68319',
     secondary: '#635c54',
     secondarybright: '#8a857f',
-    tertiary: '#ebebeb'
+    tertiary: '#ebebeb',
+    tertiary_name: 'white'
   },
 
   black: {
@@ -105,6 +113,7 @@ COLORS.schemes = {
     secondary: '#FFF',
     secondarybright: '#FFF',
     tertiary: '#B8B8B8',
+    tertiary_name: 'light grey'
   }
 }
 
